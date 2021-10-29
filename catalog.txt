@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+<title>Catalog colegi de grupa</title>
+</head>
+ 
+<body>
+<h1>Catalog colegi de grupa</h1>
+
+<hr>
+
+<p>Seria A, grupa 2111</p>
+ 
+
+<h2>Colegi</h2>
+<table>
+<tr><td><a href="ceteras.html">Ceteras Vasile</a></tr></td>
+
+</table>
+ 
+</body>
+ 
+ 
+</html>

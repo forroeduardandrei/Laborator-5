@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ceteras Vasile</title>
+</head>
+<body>
+<h1>Ceteras Vasile</h1>
+<img src="descărcare.png" width="281" height="179">
+<p>Email: <a href="mailto:ceteras.io.vasile@student.utcluj.ro">ceteras.io.vasile@student.utcluj.ro</a> </p>
+<p></p>
+<h2>Disciplinele din planul de invatamant pe care as vrea sa le stapanesc: </h2>
+<table>
+<tr>
+<td>1.</td>
+<td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/06.pdf">Informatica aplicata</a></td>
+</tr>
+<tr>
+<td>2.</td>
+<td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/01.pdf">Analiza matematica</a></td>
+</tr>
+<tr>
+<td>3.</td>
+<td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/37.pdf">Sisteme cu microprocesoare</a></td>
+</tr>
+<tr>
+<td>4.</td>
+<td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/49_10.pdf">Sisteme cu FPGA</a></td>
+</tr>
+<tr>
+<td>5.</td>
+<td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/30.pdf">Sisteme cu circuite integrate analogice</a></td>
+</tr>
+</table>
+<p> </p>
+<h2>Hobby-uri si activitati:</h2>
+<table>
+<tr><td>1.</td><td>Netflix</td></tr>
+<tr><td>2.</td><td>Muzica</td></tr>
+<tr><td>3.</td><td>Reparatii electronice</td></tr>
+<tr><td>4.</td><td>Calculatoare vechi</td></tr>
+<tr><td>5.</td><td>Loc de munca: programator baze de date</td></tr>
+</table>
+<a href="catalog.html">Inapoi la cuprins</a>
+</body>
+</html>

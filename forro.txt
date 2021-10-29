@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+<title> Pagina de profil Forro Eduard Andrei</title>
+</head>
+ 
+<body>
+<h1>Forro Eduard Andrei</h1>
+<img src="descărcare.png" width="281" height="176">
+<p>Daneil.f.mihai@student.utcluj.ro</p>
+<p>0745xxxxxx</p>
+ 
+<p>
+ 
+Asteptarile mele sunt de a nu petrece mult timp inutil. 
+</p>
+<h2>Discipline</h2>
+<table>
+<tr><td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/05.pdf">Componente si circuite pasive</a></tr></td>
+<tr><td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/06.pdf">Informatica aplicata </a></tr></td>
+<tr><td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/03.pdf">Fizica</a></tr></td>
+
+</table>
+ 
+<h2>Pasiuni</h2>
+<ul>
+<li>Mecanica</li>
+<li>SSporturile extreme</li>
+</ul>
+ 
+</body>
+ 
+ 
+</html>

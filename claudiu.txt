@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+<title> Pagina de profil Pop Claudiu</title>
+</head>
+ 
+<body>
+<h1>Daniel Mihai</h1>
+<img src="descarcare.png" width="281" height="179">
+<p>Daniel.f.mihai@student.utcluj.ro</p>
+<p>0745xxxxxx</p>
+ 
+<p>
+ 
+Asteptarea mea este sa nu folosesc timpul in defavoarea mea. 
+</p>
+<h2>Discipline</h2>
+<table>
+<tr><td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/05.pdf">Componente si circuite pasive</a></tr></td>
+<tr><td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/06.pdf">Informatica aplicata </a></tr></td>
+<tr><td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/03.pdf">Fizica</a></tr></td>
+
+</table>
+ 
+<h2>Pasiuni</h2>
+<ul>
+<li>Sporturile extreme</li>
+<li>Mecanica</li>
+</ul>
+<a href="catalog.html">Inapoi la cuprins</a>
+</body>
+ 
+ 
+</html>
