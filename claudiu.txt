@@ -6,9 +6,9 @@
 </head>
  
 <body>
-<h1>Daniel Mihai</h1>
+<h1>Pop Claudiu</h1>
 <img src="descarcare.png" width="281" height="179">
-<p>Daniel.f.mihai@student.utcluj.ro</p>
+<p>Pop.b.claudiu@student.utcluj.ro</p>
 <p>0745xxxxxx</p>
  
 <p>
